@@ -1,0 +1,12 @@
+#cookie {
+    background-color:rgb(0, 13, 33);
+    position: fixed;
+    z-index: 25;
+    /*display: none;
+    bottom: 0;
+    left: 0;
+    right: 0;*/
+    padding: 8px 25px 8px;
+    font-size: 14px;
+    color: white;
+}
